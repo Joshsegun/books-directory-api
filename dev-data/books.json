@@ -1,0 +1,662 @@
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "images/things-fall-apart.jpg",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "name": "Things Fall Apart",
+    "price": 195,
+    "genre": "Historical Fiction"
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "images/fairy-tales.jpg",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "pages": 784,
+    "name": "Fairy tales",
+    "price": 183,
+    "genre": "Folklore"
+  },
+  {
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "images/pride-and-prejudice.jpg",
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "pages": 226,
+    "name": "Pride and Prejudice",
+    "price": 181,
+    "genre": "Romance/Satire"
+  },
+  {
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "pages": 256,
+    "name": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "price": 195,
+    "genre": "Literary Fiction"
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "country": "Argentina",
+    "imageLink": "images/ficciones.jpg",
+    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "pages": 224,
+    "name": "Ficciones",
+    "price": 196,
+    "genre": "Fantasy Fiction"
+  },
+  {
+    "author": "Albert Camus",
+    "country": "Algeria, French Empire",
+    "imageLink": "images/l-etranger.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+    "pages": 185,
+    "name": "The Stranger",
+    "price": 194,
+    "genre": "Crime Fiction"
+  },
+  {
+    "author": "Anton Chekhov",
+    "country": "Russia",
+    "imageLink": "images/stories-of-anton-chekhov.jpg",
+    "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+    "pages": 194,
+    "name": "Stories",
+    "price": 188,
+    "genre": "Literary Fiction"
+  },
+  {
+    "author": "Joseph Conrad",
+    "country": "United Kingdom",
+    "imageLink": "images/nostromo.jpg",
+    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+    "pages": 320,
+    "name": "Nostromo",
+    "price": 190,
+    "genre": "Fiction"
+  },
+  {
+    "author": "Charles Dickens",
+    "country": "United Kingdom",
+    "imageLink": "images/great-expectations.jpg",
+    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+    "pages": 194,
+    "name": "Great Expectations",
+    "price": 186,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "author": "Denis Diderot",
+    "country": "France",
+    "imageLink": "images/jacques-the-fatalist.jpg",
+    "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+    "pages": 596,
+    "name": "Jacques the Fatalist",
+    "price": 179,
+    "genre": "Literary Fiction"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "images/crime-and-punishment.jpg",
+    "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+    "pages": 551,
+    "name": "Crime and Punishment",
+    "price": 186,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "images/the-idiot.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+    "pages": 656,
+    "name": "The Idiot",
+    "price": 186,
+    "genre": "Romance"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "images/the-possessed.jpg",
+    "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+    "pages": 768,
+    "name": "The Possessed",
+    "price": 187,
+    "genre": "Action"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "imageLink": "images/the-brothers-karamazov.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+    "pages": 824,
+    "name": "The Brothers Karamazov",
+    "price": 188,
+    "genre": "Fiction"
+  },
+  {
+    "author": "George Eliot",
+    "country": "United Kingdom",
+    "imageLink": "images/middlemarch.jpg",
+    "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
+    "pages": 800,
+    "name": "Middlemarch",
+    "price": 187,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Ralph Ellison",
+    "country": "United States",
+    "imageLink": "images/invisible-man.jpg",
+    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+    "pages": 581,
+    "name": "Invisible Man",
+    "price": 195,
+    "genre": "Romance"
+  },
+  {
+    "author": "William Faulkner",
+    "country": "United States",
+    "imageLink": "images/absalom-absalom.jpg",
+    "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
+    "pages": 313,
+    "name": "Absalom, Absalom!",
+    "price": 193,
+    "genre": "Action"
+  },
+  {
+    "author": "William Faulkner",
+    "country": "United States",
+    "imageLink": "images/the-sound-and-the-fury.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
+    "pages": 326,
+    "name": "The Sound and the Fury",
+    "price": 192,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Gustave Flaubert",
+    "country": "France",
+    "imageLink": "images/madame-bovary.jpg",
+    "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
+    "pages": 528,
+    "name": "Madame Bovary",
+    "price": 185,
+    "genre": "Fiction"
+  },
+  {
+    "author": "Gustave Flaubert",
+    "country": "France",
+    "imageLink": "images/l-education-sentimentale.jpg",
+    "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
+    "pages": 606,
+    "name": "Sentimental Education",
+    "price": 186,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Federico Garc\u00eda Lorca",
+    "country": "Spain",
+    "imageLink": "images/gypsy-ballads.jpg",
+    "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
+    "pages": 218,
+    "name": "Gypsy Ballads",
+    "price": 192,
+    "genre": "Romance"
+  },
+  {
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "country": "Colombia",
+    "imageLink": "images/one-hundred-years-of-solitude.jpg",
+    "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
+    "pages": 417,
+    "name": "One Hundred Years of Solitude",
+    "price": 196,
+    "genre": "Fiction"
+  },
+  {
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "country": "Colombia",
+    "imageLink": "images/love-in-the-time-of-cholera.jpg",
+    "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
+    "pages": 368,
+    "name": "Love in the Time of Cholera",
+    "price": 198,
+    "genre": "Romance"
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "country": "Saxe-Weimar",
+    "imageLink": "images/faust.jpg",
+    "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
+    "pages": 158,
+    "name": "Faust",
+    "price": 183,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Nikolai Gogol",
+    "country": "Russia",
+    "imageLink": "images/dead-souls.jpg",
+    "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
+    "pages": 432,
+    "name": "Dead Souls",
+    "price": 184,
+    "genre": "Action"
+  },
+  {
+    "author": "Knut Hamsun",
+    "country": "Norway",
+    "imageLink": "images/hunger.jpg",
+    "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
+    "pages": 176,
+    "name": "Hunger",
+    "price": 189,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Ernest Hemingway",
+    "country": "United States",
+    "imageLink": "images/the-old-man-and-the-sea.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
+    "pages": 128,
+    "name": "The Old Man and the Sea",
+    "price": 195,
+    "genre": "Crime Fiction"
+  },
+  {
+    "author": "Henrik Ibsen",
+    "country": "Norway",
+    "imageLink": "images/a-Dolls-house.jpg",
+    "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
+    "pages": 68,
+    "name": "A Doll's House",
+    "price": 187,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "James Joyce",
+    "country": "Irish Free State",
+    "imageLink": "images/ulysses.jpg",
+    "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
+    "pages": 228,
+    "name": "Ulysses",
+    "price": 192,
+    "genre": "Action"
+  },
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "imageLink": "images/stories-of-franz-kafka.jpg",
+    "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
+    "pages": 488,
+    "name": "Stories",
+    "price": 198,
+    "genre": "Crime Fiction"
+  },
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "imageLink": "images/the-trial.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Trial\n",
+    "pages": 160,
+    "name": "The Trial",
+    "price": 192,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "imageLink": "images/the-castle.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
+    "pages": 352,
+    "name": "The Castle",
+    "price": 191,
+    "genre": "Folklore"
+  },
+  {
+    "author": "Yasunari Kawabata",
+    "country": "Japan",
+    "imageLink": "images/the-sound-of-the-mountain.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
+    "pages": 288,
+    "name": "The Sound of the Mountain",
+    "price": 195,
+    "genre": "Fiction"
+  },
+  {
+    "author": "Nikos Kazantzakis",
+    "country": "Greece",
+    "imageLink": "images/zorba-the-greek.jpg",
+    "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
+    "pages": 368,
+    "name": "Zorba the Greek",
+    "price": 194,
+    "genre": "Fiction"
+  },
+  {
+    "author": "D. H. Lawrence",
+    "country": "United Kingdom",
+    "imageLink": "images/sons-and-lovers.jpg",
+    "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
+    "pages": 432,
+    "name": "Sons and Lovers",
+    "price": 191,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Doris Lessing",
+    "country": "United Kingdom",
+    "imageLink": "images/the-golden-notebook.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
+    "pages": 688,
+    "name": "The Golden Notebook",
+    "price": 196,
+    "genre": "Literary Fiction"
+  },
+  {
+    "author": "Astrid Lindgren",
+    "country": "Sweden",
+    "imageLink": "images/pippi-longstocking.jpg",
+    "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
+    "pages": 160,
+    "name": "Pippi Longstocking",
+    "price": 194,
+    "genre": "Historical Fiction"
+  },
+  {
+    "author": "Lu Xun",
+    "country": "China",
+    "imageLink": "images/diary-of-a-madman.jpg",
+    "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
+    "pages": 389,
+    "name": "Diary of a Madman",
+    "price": 191,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Naguib Mahfouz",
+    "country": "Egypt",
+    "imageLink": "images/children-of-gebelawi.jpg",
+    "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
+    "pages": 355,
+    "name": "Children of Gebelawi",
+    "price": 195,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "author": "Thomas Mann",
+    "country": "Germany",
+    "imageLink": "images/buddenbrooks.jpg",
+    "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n",
+    "pages": 736,
+    "name": "Buddenbrooks",
+    "price": 190,
+    "genre": "Action"
+  },
+  {
+    "author": "Thomas Mann",
+    "country": "Germany",
+    "imageLink": "images/the-magic-mountain.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
+    "pages": 720,
+    "name": "The Magic Mountain",
+    "price": 192,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Herman Melville",
+    "country": "United States",
+    "imageLink": "images/moby-dick.jpg",
+    "link": "https://en.wikipedia.org/wiki/Moby-Dick\n",
+    "pages": 378,
+    "name": "Moby Dick",
+    "price": 185,
+    "genre": "Satire"
+  },
+  {
+    "author": "Elsa Morante",
+    "country": "Italy",
+    "imageLink": "images/history.jpg",
+    "link": "https://en.wikipedia.org/wiki/History_(novel)\n",
+    "pages": 600,
+    "name": "History",
+    "price": 197,
+    "genre": "Historical Fiction"
+  },
+  {
+    "author": "Toni Morrison",
+    "country": "United States",
+    "imageLink": "images/beloved.jpg",
+    "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
+    "pages": 321,
+    "name": "Beloved",
+    "price": 198,
+    "genre": "Romance/Satire"
+  },
+  {
+    "author": "Robert Musil",
+    "country": "Austria",
+    "imageLink": "images/the-man-without-qualities.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
+    "pages": 365,
+    "name": "The Man Without Qualities",
+    "price": 193,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Vladimir Nabokov",
+    "country": "Russia/United States",
+    "imageLink": "images/lolita.jpg",
+    "link": "https://en.wikipedia.org/wiki/Lolita\n",
+    "pages": 317,
+    "name": "Lolita",
+    "price": 195,
+    "genre": "Satire"
+  },
+  {
+    "author": "George Orwell",
+    "country": "United Kingdom",
+    "imageLink": "images/nineteen-eighty-four.jpg",
+    "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
+    "pages": 272,
+    "name": "Nineteen Eighty-Four",
+    "price": 194,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Fernando Pessoa",
+    "country": "Portugal",
+    "imageLink": "images/the-book-of-disquiet.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
+    "pages": 272,
+    "name": "The Book of Disquiet",
+    "price": 192,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "author": "Edgar Allan Poe",
+    "country": "United States",
+    "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
+    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
+    "pages": 842,
+    "name": "Tales",
+    "price": 195,
+    "genre": "Satire"
+  },
+  {
+    "author": "Marcel Proust",
+    "country": "France",
+    "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
+    "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
+    "pages": 2408,
+    "name": "In Search of Lost Time",
+    "price": 192,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Salman Rushdie",
+    "country": "United Kingdom, India",
+    "imageLink": "images/midnights-children.jpg",
+    "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
+    "pages": 536,
+    "name": "Midnight's Children",
+    "price": 198,
+    "genre": "Literary Fiction"
+  },
+  {
+    "author": "Tayeb Salih",
+    "country": "Sudan",
+    "imageLink": "images/season-of-migration-to-the-north.jpg",
+    "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
+    "pages": 139,
+    "name": "Season of Migration to the North",
+    "price": 196,
+    "genre": "Folklore"
+  },
+  {
+    "author": "William Shakespeare",
+    "country": "England",
+    "imageLink": "images/hamlet.jpg",
+    "link": "https://en.wikipedia.org/wiki/Hamlet\n",
+    "pages": 432,
+    "name": "Hamlet",
+    "price": 160,
+    "genre": "Folklore"
+  },
+  {
+    "author": "William Shakespeare",
+    "country": "England",
+    "imageLink": "images/king-lear.jpg",
+    "link": "https://en.wikipedia.org/wiki/King_Lear\n",
+    "pages": 384,
+    "name": "King Lear",
+    "price": 160,
+    "genre": "Historical Fiction"
+  },
+  {
+    "author": "William Shakespeare",
+    "country": "England",
+    "imageLink": "images/othello.jpg",
+    "link": "https://en.wikipedia.org/wiki/Othello\n",
+    "pages": 314,
+    "name": "Othello",
+    "price": 160,
+    "genre": "Satire"
+  },
+  {
+    "author": "Stendhal",
+    "country": "France",
+    "imageLink": "images/le-rouge-et-le-noir.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
+    "pages": 576,
+    "name": "The Red and the Black",
+    "price": 183,
+    "genre": "Love"
+  },
+  {
+    "author": "Laurence Sterne",
+    "country": "England",
+    "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
+    "pages": 640,
+    "name": "The Life And Opinions of Tristram Shandy",
+    "price": 170,
+    "genre": "Action"
+  },
+  {
+    "author": "Italo Svevo",
+    "country": "Italy",
+    "imageLink": "images/confessions-of-zeno.jpg",
+    "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
+    "pages": 412,
+    "name": "Confessions of Zeno",
+    "price": 123,
+    "genre": "Love"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "country": "Russia",
+    "imageLink": "images/war-and-peace.jpg",
+    "link": "https://en.wikipedia.org/wiki/War_and_Peace\n",
+    "pages": 1296,
+    "name": "War and Peace",
+    "price": 167,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "country": "Russia",
+    "imageLink": "images/anna-karenina.jpg",
+    "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n",
+    "pages": 864,
+    "name": "Anna Karenina",
+    "price": 187,
+    "genre": "Romance/Satire"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "country": "Russia",
+    "imageLink": "images/the-death-of-ivan-ilyich.jpg",
+    "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
+    "pages": 92,
+    "name": "The Death of Ivan Ilyich",
+    "price": 186,
+    "genre": "Satire"
+  },
+  {
+    "author": "Mark Twain",
+    "country": "United States",
+    "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
+    "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
+    "pages": 224,
+    "name": "The Adventures of Huckleberry Finn",
+    "price": 188,
+    "genre": "Sci-Fi"
+  },
+  {
+    "author": "Walt Whitman",
+    "country": "United States",
+    "imageLink": "images/leaves-of-grass.jpg",
+    "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
+    "pages": 152,
+    "name": "Leaves of Grass",
+    "price": 185,
+    "genre": "Gothic Fiction"
+  },
+  {
+    "author": "Virginia Woolf",
+    "country": "United Kingdom",
+    "imageLink": "images/mrs-dalloway.jpg",
+    "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
+    "pages": 216,
+    "name": "Mrs Dalloway",
+    "price": 125,
+    "genre": "Love"
+  },
+  {
+    "author": "Virginia Woolf",
+    "country": "United Kingdom",
+    "imageLink": "images/to-the-lighthouse.jpg",
+    "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse\n",
+    "pages": 209,
+    "name": "To the Lighthouse",
+    "price": 127,
+    "genre": "Comedy"
+  },
+  {
+    "author": "Marguerite Yourcenar",
+    "country": "France/Belgium",
+    "imageLink": "images/memoirs-of-hadrian.jpg",
+    "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
+    "pages": 408,
+    "name": "Memoirs of Hadrian",
+    "price": 151,
+    "genre": "Historical Fiction"
+  }
+]
